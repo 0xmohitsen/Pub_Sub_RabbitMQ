@@ -14,7 +14,7 @@ This project demonstrates the implementation of the publisher-subscriber (pub-su
 1. Clone the repository to your local machine:
 
 ```
-https://github.com/Mohitsen11/Pub_Sub_RabbitMQ.git
+git clone https://github.com/Mohitsen11/Pub_Sub_RabbitMQ.git
 ```
 
 2. Install project dependencies:
@@ -23,7 +23,7 @@ npm install
 ```
 3. Start the application:
 ```
-npm start
+npm run dev
 ```
 
 ### Usage
